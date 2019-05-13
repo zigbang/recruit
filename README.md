@@ -2,7 +2,7 @@
 
 ## 직방 개발팀
 
-* 백엔드 파트
+* [백엔드 파트](./Backend.md) 파트
 * [프론트엔드](./Frontend.md) 파트
   * Web 개발
   * App 개발
@@ -16,12 +16,17 @@
 
 # 2019년 상반기 모집 공고
 
-* [프론트엔드 파트 리드](./dev-fe/lead.md)
-* [프론트엔드 테크니컬 리드](./dev-fe/tech-lead.md)
-* [프론트엔드 Web 개발 리드](./dev-fe/web.md#프론트엔드-web-개발-리드)
-* [프론트엔드 Web 개발자](./dev-fe/web.md#프론트엔드-web-개발자)
-* [프론트엔드 App 개발 리드](./dev-fe/app.md#프론트엔드-app-개발-리드)
-* [프론트엔드 App 개발자](./dev-fe/app.md#프론트엔드-app-개발자)
+* 백엔드 파트
+  * 파트 리드
+  * 테크니컬 리드
+  * 개발자
+* 프론트엔드 파트
+  * [파트 리드](./dev-fe/lead.md)
+  * [테크니컬 리드](./dev-fe/tech-lead.md)
+  * [Web 개발 리드](./dev-fe/web.md#프론트엔드-web-개발-리드)
+  * [Web 개발자](./dev-fe/web.md#프론트엔드-web-개발자)
+  * [App 개발 리드](./dev-fe/app.md#프론트엔드-app-개발-리드)
+  * [App 개발자](./dev-fe/app.md#프론트엔드-app-개발자)
 
 # 직방 관련 주요 뉴스
 
