@@ -72,9 +72,9 @@
 # 2019년 상반기 모집 공고
 
 * 백엔드 파트
-  * 파트 리드
-  * 테크니컬 리드
-  * 개발자
+  * [파트 리드](./dev-be/lead.md)
+  * [테크니컬 리드](./dev-be/tech-lead.md)
+  * [개발자](./dev-be/developer.md)
 * 프론트엔드 파트
   * [파트 리드](./dev-fe/lead.md)
   * [테크니컬 리드](./dev-fe/tech-lead.md)
