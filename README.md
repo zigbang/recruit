@@ -1,6 +1,6 @@
 # 직방 개발자 공고
 
-## 2019년 상반기 모집 공고 (상시)
+## 모집 공고 (상시)
 
 ### 직방 개발팀
 
@@ -95,6 +95,7 @@ Be part of one of the fastest growing PropTech company in South Korea!
 
 # 직방 관련 주요 뉴스
 
+* 2019/07/09, [직방, 1600억 투자유치 …‘네모’ 서비스 인수도](https://news.joins.com/article/23519762)
 * 2019/04/27, [직방, 소셜 하우징 전문기업 ‘우주’ 인수](https://platum.kr/archives/120660)
 * 2019/04/25, [직방, 'VC 러브콜' 기업가치 폭등](http://www.thebell.co.kr/front/free/contents/news/article_view.asp?key=201904240100046840002914)
 * 2019/04/25, [직방, '프롭테크' 선두주자로…서비스 고도화](http://www.thebell.co.kr/front/free/contents/news/article_view.asp?key=201904230100043700002711)

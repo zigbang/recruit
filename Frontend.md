@@ -51,7 +51,7 @@
 * GitHub
 * Azure DevOps (CI/CD)
 
-# 2019년 상반기 모집 공고
+# 모집 공고
 
 * 백엔드 파트
   * [파트 리드](./dev-be/lead.md)
