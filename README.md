@@ -21,6 +21,8 @@
 
 * SQA 파트
 * 인프라보안 파트
+  * [DevSecOps](./cto-isms/engineer.md#DevSecOps)
+  * [Security Engineer](./cto-isms/engineer.md#Security-Engineer)
 * ZUIX 파트
 
 # 소개
@@ -39,14 +41,14 @@ Be part of one of the fastest growing PropTech company in South Korea!
 
 ## 직방 개발팀
 
-* [백엔드 파트](./Backend.md) 파트
+* [백엔드](./Backend.md) 파트
 * [프론트엔드](./Frontend.md) 파트
 * 부동산 데이터 파트
 
 ## 직방 CTO팀
 
 * SQA (Software Quality Assurance) 파트
-* 인프라보안 파트
+* [인프라보안](./Security.md) 파트
 * ZUIX (Zigbang User Interface eXperience) 파트
 
 ## 업무 환경 및 복지
