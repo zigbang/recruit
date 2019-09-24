@@ -2,6 +2,8 @@
 
 ## 모집 공고 (상시)
 
+> [입사지원을 하러 가기, 클릭](https://zigbang.recruiter.co.kr/app/applicant/registResume)!!
+
 ### 직방 개발팀
 
 * 백엔드 파트
@@ -96,6 +98,8 @@ Be part of one of the fastest growing PropTech company in South Korea!
 * Cloud (AWS, Azure)에 대한 이해도
 * 기본적인 Database/SQL (sqlite 경험 포함)에 대한 이해도
 * 영어 작문 능력
+
+> [입사지원을 하러 가기, 클릭](https://zigbang.recruiter.co.kr/app/applicant/registResume)!!
 
 # 직방 관련 주요 뉴스
 
