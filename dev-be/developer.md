@@ -1,7 +1,5 @@
 # 백엔드 개발자
 
-> [입사지원을 하러 가기, 클릭](https://zigbang.recruiter.co.kr/app/applicant/registResume)!!
-
 직방의 기술 스택을 이해하고 이를 바탕으로 직방에서 운영하는 [백엔드](../Backend.md) 서비스 구축 및 운영을 담당하는 백엔드 개발자 포지션을 구합니다.
 
 ### 주요 업무

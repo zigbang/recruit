@@ -1,7 +1,5 @@
 # 직방 백엔드 개발
 
-> [입사지원을 하러 가기, 클릭](https://zigbang.recruiter.co.kr/app/applicant/registResume)!!
-
 직방의 백엔드 개발자는 AWS 클라우드 기반, serverless 환경을 바탕으로 직방 서비스에 필요한 서비스를 제공 합니다. 직방의 여러 개발자들과의 tight한 협업 및 높은 coverage의 코드 셰어링을 위해서 기반 플랫폼을 Node.js / Typescript 근간으로 작업을 합니다. 이를 통해 발생할 수 있는 커뮤니케이션 오류를 최소화 하고자 노력 합니다.
 
 백엔드 RESTful API service들은 다음과 같은 특징을 가지고 있습니다.
@@ -72,8 +70,6 @@
 * Azure DevOps (CI/CD)
 
 # 모집 공고
-
-> [입사지원을 하러 가기, 클릭](https://zigbang.recruiter.co.kr/app/applicant/registResume)!!
 
 * 개발팀 백엔드 파트
   * [파트 리드](./dev-be/lead.md)

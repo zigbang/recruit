@@ -1,7 +1,5 @@
 # DevSecOps
 
-> [입사지원을 하러 가기, 클릭](https://zigbang.recruiter.co.kr/app/applicant/registResume)!!
-
 ### 주요 업무
 
 * 보안 및 인프라 업무의 자동화 개발
@@ -23,8 +21,6 @@
 * AWS Inspector, NACL, VPC Flow Logs 분석 가능하신 분
 
 # Security Engineer
-
-> [입사지원을 하러 가기, 클릭](https://zigbang.recruiter.co.kr/app/applicant/registResume)!!
 
 ### 주요 업무
 
