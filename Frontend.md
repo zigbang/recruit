@@ -1,5 +1,7 @@
 # 직방 프론트엔드 개발
 
+> [입사지원을 하러 가기, 클릭](https://zigbang.recruiter.co.kr/app/applicant/registResume)!!
+
 직방의 프론트엔드 개발자는 [React](https://reactjs.org/)를 근간으로 web과 app을 통합적으로 구축/관리 합니다. 통상적으로 React는 web 개발의 근간이 되고 [React Native](https://facebook.github.io/react-native/)는 native app을 개발한다는 관념에서 벗어나 [React Native for Web](https://github.com/necolas/react-native-web)을 이용하여 통합된 web/app 개발 경험을 제공 합니다. React로 통합된 개발 환경은 다음과 같은 서비스에 적용되어 있습니다.
 
 * 직방 PC 웹/Mobile 웹
@@ -52,6 +54,8 @@
 * Azure DevOps (CI/CD)
 
 # 모집 공고
+
+> [입사지원을 하러 가기, 클릭](https://zigbang.recruiter.co.kr/app/applicant/registResume)!!
 
 * 개발팀 백엔드 파트
   * [파트 리드](./dev-be/lead.md)
