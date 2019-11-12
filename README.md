@@ -18,14 +18,18 @@
   * [App 개발 리드](./dev-fe/app.md#프론트엔드-app-개발-리드)
   * [App 개발자](./dev-fe/app.md#프론트엔드-app-개발자)
 * 부동산 데이터 파트
+  * [Data 엔지니어]
 
 ### 직방 CTO팀
 
 * SQA 파트
+  * 백엔드 개발자
+  * QA 엔지니어
 * 인프라보안 파트
-  * [DevSecOps](./cto-isms/engineer.md#DevSecOps)
   * [Security Engineer](./cto-isms/engineer.md#Security-Engineer)
+  * [DevSecOps](./cto-isms/engineer.md#DevSecOps)
 * ZUIX 파트
+  * React 및 벡엔드 엔지니어
 
 # 소개
 
@@ -104,6 +108,7 @@ Be part of one of the fastest growing PropTech company in South Korea!
 
 # 직방 관련 주요 뉴스
 
+* 2019/11/11, [\[기업 인사이트\] 프롭테크 선도하는 ‘직방’](http://news.kbiz.or.kr/news/articleView.html?idxno=61105)
 * 2019/07/09, [직방, 1600억 투자유치 …‘네모’ 서비스 인수도](https://news.joins.com/article/23519762)
 * 2019/04/27, [직방, 소셜 하우징 전문기업 ‘우주’ 인수](https://platum.kr/archives/120660)
 * 2019/04/25, [직방, 'VC 러브콜' 기업가치 폭등](http://www.thebell.co.kr/front/free/contents/news/article_view.asp?key=201904240100046840002914)
