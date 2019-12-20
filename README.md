@@ -6,19 +6,22 @@
 
 ### 직방 개발팀
 
-* 백엔드 파트
+* 백엔드 파트 [(소개)](./Backend.md)
   * [파트 리드](./dev-be/lead.md)
   * [테크니컬 리드](./dev-be/tech-lead.md)
   * [개발자](./dev-be/developer.md)
-* 프론트엔드 파트
+* 프론트엔드 파트 [(소개)](./Frontend.md)
   * [파트 리드](./dev-fe/lead.md)
   * [테크니컬 리드](./dev-fe/tech-lead.md)
   * [Web 개발 리드](./dev-fe/web.md#프론트엔드-web-개발-리드)
   * [Web 개발자](./dev-fe/web.md#프론트엔드-web-개발자)
   * [App 개발 리드](./dev-fe/app.md#프론트엔드-app-개발-리드)
   * [App 개발자](./dev-fe/app.md#프론트엔드-app-개발자)
-* 부동산 데이터 파트
-  * [Data 엔지니어]
+* 부동산 데이터 파트 [(소개)](./DevBL.md)
+  * [백엔드 개발자](./dev-bl/BackendEngineer.md)
+  * 데이터 엔지니어
+  * 머신러닝 엔지니어
+  * DBA
 
 ### 직방 CTO팀
 
@@ -49,7 +52,7 @@ Be part of one of the fastest growing PropTech company in South Korea!
 
 * [백엔드](./Backend.md) 파트
 * [프론트엔드](./Frontend.md) 파트
-* 부동산 데이터 파트
+* [부동산 데이터](./DevBL.md) 파트
 
 ## 직방 CTO팀
 
