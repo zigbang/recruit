@@ -69,17 +69,7 @@ CTO팀 인프라보안 파트 일원으로 활동하게 되면 다음과 같은 
 
 > [입사지원을 하러 가기, 클릭](https://zigbang.recruiter.co.kr/app/applicant/registResume)!!
 
-* 개발팀 백엔드 파트
-  * [파트 리드](./dev-be/lead.md)
-  * [테크니컬 리드](./dev-be/tech-lead.md)
-  * [개발자](./dev-be/developer.md)
-* 개발팀 프론트엔드 파트
-  * [파트 리드](./dev-fe/lead.md)
-  * [테크니컬 리드](./dev-fe/tech-lead.md)
-  * [Web 개발 리드](./dev-fe/web.md#프론트엔드-web-개발-리드)
-  * [Web 개발자](./dev-fe/web.md#프론트엔드-web-개발자)
-  * [App 개발 리드](./dev-fe/app.md#프론트엔드-app-개발-리드)
-  * [App 개발자](./dev-fe/app.md#프론트엔드-app-개발자)
 * CTO팀 인프라보안 파트
-  * [DevSecOps](./cto-isms/engineer.md#DevSecOps)
-  * [Security Engineer](./cto-isms/engineer.md#Security-Engineer)
+  * [DevSecOps](./engineer.md#DevSecOps)
+  * [Security Engineer](./engineer.md#Security-Engineer)
+  

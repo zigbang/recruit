@@ -6,28 +6,31 @@
 
 ### 직방 개발팀
 
-* 백엔드 파트
-  * [파트 리드](./dev-be/lead.md)
-  * [테크니컬 리드](./dev-be/tech-lead.md)
-  * [개발자](./dev-be/developer.md)
-* 프론트엔드 파트
-  * [파트 리드](./dev-fe/lead.md)
-  * [테크니컬 리드](./dev-fe/tech-lead.md)
-  * [Web 개발 리드](./dev-fe/web.md#프론트엔드-web-개발-리드)
-  * [Web 개발자](./dev-fe/web.md#프론트엔드-web-개발자)
-  * [App 개발 리드](./dev-fe/app.md#프론트엔드-app-개발-리드)
-  * [App 개발자](./dev-fe/app.md#프론트엔드-app-개발자)
-* 부동산 데이터 파트
-  * [Data 엔지니어]
+* [백엔드 파트](./dev-be/README.md)
+  * 파트 리드
+  * 테크니컬 리드
+  * 개발자
+* [프론트엔드 파트](./dev-fe/README.md)
+  * 파트 리드
+  * 테크니컬 리드
+  * Web 개발 리드
+  * Web 개발자
+  * App 개발 리드
+  * App 개발자
+* [부동산 데이터 파트](./dev-bl/README.md)
+  * 백엔드 개발자
+  * 데이터 엔지니어
+  * 머신러닝 엔지니어
+  * DBA
 
 ### 직방 CTO팀
 
 * SQA 파트
   * 백엔드 개발자
   * QA 엔지니어
-* 인프라보안 파트
-  * [Security Engineer](./cto-isms/engineer.md#Security-Engineer)
-  * [DevSecOps](./cto-isms/engineer.md#DevSecOps)
+* [인프라보안 파트](./cto-isms/README.md)
+  * Security Engineer
+  * DevSecOps
 * ZUIX 파트
   * React 및 벡엔드 엔지니어
 
@@ -47,14 +50,14 @@ Be part of one of the fastest growing PropTech company in South Korea!
 
 ## 직방 개발팀
 
-* [백엔드](./Backend.md) 파트
-* [프론트엔드](./Frontend.md) 파트
-* 부동산 데이터 파트
+* [백엔드](./dev-be/README.md) 파트
+* [프론트엔드](./dev-fe/README.md) 파트
+* [부동산 데이터](./dev-bl/README.md) 파트
 
 ## 직방 CTO팀
 
 * SQA (Software Quality Assurance) 파트
-* [인프라보안](./Security.md) 파트
+* [인프라보안](./cto-isms/README.md) 파트
 * ZUIX (Zigbang User Interface eXperience) 파트
 
 ## 업무 환경 및 복지
@@ -62,7 +65,7 @@ Be part of one of the fastest growing PropTech company in South Korea!
 * 종각역(1호선)과 연결된 건물 (을지로입구역(2호선) 도보 9분, 광화문역(5호선) 도보 9분, 안국역(3호선) 도보 11분)
 * 파티션이 없는 근무 환경
 * 15인치 맥북 프로 제공
-  * 모니터, 키보드, 마우스 등의 물품은 개인 구매 (회사에서 지급하지 않음)
+  * 모니터, 키보드, 마우스 등의 개인 취향이 강한 물품은 지급하지 않음
 * 칼퇴 권장, 야근 식대 지원, 철야 교통비 지원
 * 매 2년 리프레시 휴가 제공
 * 무제한 무료 음료 제공
@@ -86,7 +89,7 @@ Be part of one of the fastest growing PropTech company in South Korea!
 * 일부 유관 부서와의 협업 시 Email, Telegram 사용 필요
 * 디자인팀과 협업 시 Zeplin
 
-## 공통 요건
+## 개발자 공통 요건
 
 ### 자격요건
 
