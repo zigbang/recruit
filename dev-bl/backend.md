@@ -6,11 +6,11 @@
 
 ### 주요업무
 
-* 부동산 데이터 처리(수집,가공) Batch 개발 / 관리 (Node.js, mysql, aws s3)
+* 부동산 데이터 처리(수집,가공) Batch 개발 / 관리 (Node.js, MySQL, AWS S3)
 * 외부 API 연동 개발 / 관리 (Node.js)
-* 부동산 데이터 관리용 툴 제작 (Node.js, nest.js, React, Redux 등)
-* 배포시스템 고도화 / 관리 (AWS Codepipeline,codebuild,cloudformation)
-* 운영 중인 AWS 리소스 관리 및 모니터링 시스템 개발 (AWS Batch,ECS,Lambda,Cloudwatch 등)
+* 부동산 데이터 관리용 툴 제작 (Node.js, Nest.js, React, Redux 등)
+* 배포시스템 고도화 / 관리 (AWS Code Pipeline, CodeBuild, CloudFormation)
+* 운영 중인 AWS 리소스 관리 및 모니터링 시스템 개발 (AWS Batch, ECS, Lambda, CloudWatch 등)
 
 ### 자격요건
 
@@ -25,6 +25,6 @@
 * Typescript
 * Docker
 * Elasticsearch
-* AWS ECS, Lambda, apigateway 등 경험이 있으신 분
-* AWS EMR,Glue을 활용한 ETL개발을 해보신 분
-* 개인프로젝트 진행 중인 사람
+* AWS ECS, Lambda, API Gateway 등 경험이 있으신 분
+* AWS EMR, Glue을 활용한 ETL개발을 해보신 분
+* 개인 프로젝트 진행 중인 사람
