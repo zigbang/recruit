@@ -2,7 +2,7 @@
 
 > [입사지원을 하러 가기, 클릭](https://zigbang.recruiter.co.kr/app/applicant/registResume)!!
 
-> [부동산 데이터파트 소개](../DevBL.md)
+> [부동산 데이터파트 소개](./README.md)
 
 ### 주요업무
 
