@@ -2,37 +2,26 @@
 
 ## 모집 공고 (상시)
 
-> [입사지원을 하러 가기, 클릭](https://zigbang.recruiter.co.kr/app/applicant/registResume)!!
+| 팀          | 파트 소개                                | 모집 공고                                                    |
+| ----------- | ---------------------------------------- | ------------------------------------------------------------ |
+| 직방 개발팀 | [백엔드 파트](./dev-be/README.md)        | [파트리드](./dev-be/lead.md) / [테크니컬 리드](./dev-be/tech-lead.md) |
+|             |                                          | [백엔드 개발자](./dev-be/developer.md)                       |
+|             | [프론트엔드 파트](./dev-fe/README.md)    | [파트리드](./dev-fe/lead.md) / [테크니컬 리드](./dev-fe/tech-lead.md) |
+|             |                                          | [Web 개발 리드](./dev-fe/web.md) / [Web 개발자](./dev-fe/web.md) |
+|             |                                          | [App 개발 리드](./dev-fe/app.md) / [App 개발자](./dev-fe/app.md) |
+|             | [부동산 데이터 파트](./dev-bl/README.md) | [백엔드 개발자](./dev-bl/backend.md)                         |
+| 직방 CTO팀  | SQA 파트                                 | 백엔드 위주의 풀스택 개발자                                  |
+|             | [인프라보안 파트](./cto-isms/README.md)  | [Security Engineer](./cto-isms/engineer.md)                  |
+|             |                                          | [DevSecOps](./cto-isms/engineer.md)                          |
+|             | ZUIX 파트                                | React 위주의 풀스택 개발자                                   |
+|             |                                          | QA 엔지니어                                                  |
 
-### 직방 개발팀
+### 채용절차
 
-* [백엔드 파트](./dev-be/README.md)
-  * 파트 리드
-  * 테크니컬 리드
-  * 개발자
-* [프론트엔드 파트](./dev-fe/README.md)
-  * 파트 리드
-  * 테크니컬 리드
-  * Web 개발 리드
-  * Web 개발자
-  * App 개발 리드
-  * App 개발자
-* [부동산 데이터 파트](./dev-bl/README.md)
-  * 백엔드 개발자
-  * 데이터 엔지니어
-  * 머신러닝 엔지니어
-  * DBA
-
-### 직방 CTO팀
-
-* SQA 파트
-  * 백엔드 개발자
-  * QA 엔지니어
-* [인프라보안 파트](./cto-isms/README.md)
-  * Security Engineer
-  * DevSecOps
-* ZUIX 파트
-  * React 및 벡엔드 엔지니어
+- 서류 심사 > 코딩 테스트 > 실무 면접 > 리드 면접 > 최종 면접
+- 모든 개발직군 직무에 코딩테스트는 필수사항입니다.
+- 실무 및 리드 면접은 하루에 진행될 수 있습니다.
+- [입사지원을 하러 가기, 클릭](https://zigbang.recruiter.co.kr/app/applicant/registResume)!!
 
 # 소개
 
@@ -46,34 +35,21 @@ Be part of one of the fastest growing PropTech company in South Korea!
 
 직방 CTO팀은 직방 내부의 소프트웨어 품질 및 인프라/보안을 책임지는 부서입니다. 소프트웨어 품질 파트는 주로 직방 개발팀과의 협업을 통해 개발자들이 직방 서비스 제작에만 몰두 할 수 있는 다양한 DevOps 서비스를 제공합니다. 인프라보안 파트는 직방 사내와 클라우드 환경에서 개인정보 보호와 인프라를 책임지는 다양한 업무를 진행 합니다.
 
-직방 개발 직군의 2019년 주요 키워드는 ‘자동화'입니다. 사업에 대한 영역이 확장됨에 따라 수동적으로 이루어지고 있던 대다수의 반복적인 업무들의 자동화를 통해 개발 구성원들은 실질적인 비즈니스 개발에 초점을 더 맞출 수 있는 다양한 방법을 고안하고 같이 이행하는 것이 중요한 상황입니다.
-
-## 직방 개발팀
-
-* [백엔드](./dev-be/README.md) 파트
-* [프론트엔드](./dev-fe/README.md) 파트
-* [부동산 데이터](./dev-bl/README.md) 파트
-
-## 직방 CTO팀
-
-* SQA (Software Quality Assurance) 파트
-* [인프라보안](./cto-isms/README.md) 파트
-* ZUIX (Zigbang User Interface eXperience) 파트
+직방 개발 직군의 주요 키워드는 ‘자동화'입니다. 사업에 대한 영역이 확장됨에 따라 수동적으로 이루어지고 있던 대다수의 반복적인 업무들의 자동화를 통해 개발 구성원들은 실질적인 비즈니스 개발에 초점을 더 맞출 수 있는 다양한 방법을 고안하고 같이 이행하는 것이 중요한 상황입니다.
 
 ## 업무 환경 및 복지
 
-* 종각역(1호선)과 연결된 건물 (을지로입구역(2호선) 도보 9분, 광화문역(5호선) 도보 9분, 안국역(3호선) 도보 11분)
+* 강남역 GT타워 (강남역 9, 10번 출구 바로 앞)
 * 파티션이 없는 근무 환경
-* 15인치 맥북 프로 제공
-  * 모니터, 키보드, 마우스 등의 개인 취향이 강한 물품은 지급하지 않음
-* 칼퇴 권장, 야근 식대 지원, 철야 교통비 지원
+* 15인치+ 맥북 프로 제공
+* 오전 9시 30분 출근 ~ 오후 6시 30분 퇴근, 야근 식대 지원, 철야 교통비 지원
 * 매 2년 리프레시 휴가 제공
 * 무제한 무료 음료 제공
 * 무제한 도서 구매 지원
 * 체력단련비 레슨비 지원
 * 각종 세미나 및 컨퍼런스 참여 지원
 
-## 기술스택
+## 기술 스택
 
 * Node.js / [Express](https://expressjs.com/) / [Nest](https://nestjs.com/) / [Lerna](https://github.com/lerna/lerna)
 * SSR using [Next.js](https://nextjs.org/)
@@ -107,10 +83,9 @@ Be part of one of the fastest growing PropTech company in South Korea!
 * 기본적인 Database/SQL (sqlite 경험 포함)에 대한 이해도
 * 영어 작문 능력
 
-> [입사지원을 하러 가기, 클릭](https://zigbang.recruiter.co.kr/app/applicant/registResume)!!
-
 # 직방 관련 주요 뉴스
 
+* 2020/01/08, [직방의 '창투사 실험'을 주목한다](http://www.thebell.co.kr/free/content/ArticleView.asp?key=202001070435031370104373&svccode=00&page=1&sort=thebell_check_time)
 * 2019/11/11, [\[기업 인사이트\] 프롭테크 선도하는 ‘직방’](http://news.kbiz.or.kr/news/articleView.html?idxno=61105)
 * 2019/07/09, [직방, 1600억 투자유치 …‘네모’ 서비스 인수도](https://news.joins.com/article/23519762)
 * 2019/04/27, [직방, 소셜 하우징 전문기업 ‘우주’ 인수](https://platum.kr/archives/120660)
