@@ -91,6 +91,8 @@ Be part of one of the fastest growing PropTech company in South Korea!
 
 # 직방 관련 주요 뉴스
 
+* 2020/01/16, [직방, 벤처캐피털 ‘브리즈인베스트먼트’ 설립…200억 규모 펀드 결성](http://www.cnews.co.kr/uhtml/read.jsp?idxno=202001161518175200150)
+* 2020/01/16, [직방, 브리즈인베스트먼트 설립…프롭테크 기업 투자 나선다](https://www.venturesquare.net/800608)
 * 2020/01/08, [직방의 '창투사 실험'을 주목한다](http://www.thebell.co.kr/free/content/ArticleView.asp?key=202001070435031370104373&svccode=00&page=1&sort=thebell_check_time)
 * 2019/11/11, [\[기업 인사이트\] 프롭테크 선도하는 ‘직방’](http://news.kbiz.or.kr/news/articleView.html?idxno=61105)
 * 2019/07/09, [직방, 1600억 투자유치 …‘네모’ 서비스 인수도](https://news.joins.com/article/23519762)
