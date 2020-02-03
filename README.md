@@ -2,7 +2,7 @@
 
 ## 모집 공고 (상시)
 
-<details><summary>현재 모집 중인 공고 (클릭!)</summary>
+<details open><summary>현재 모집 중인 공고 (클릭!)</summary>
 <p>
 
 | 팀          | 파트 소개                                | 모집 공고                                                    |
@@ -17,7 +17,7 @@
 |             | [인프라보안 파트](./cto-isms/README.md)  | [Security Engineer](./cto-isms/engineer.md)                  |
 |             |                                          | [DevSecOps](./cto-isms/engineer.md)                          |
 |             | ZUIX 파트                                | React 위주의 풀스택 개발자                                   |
-|             |                                          | QA 엔지니어                                                  |
+|             |                                          | [QA 엔지니어](./cto-zuix/qa-engineer.md)                                                  |
 
 </p>
 </details>
