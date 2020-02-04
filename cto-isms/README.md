@@ -72,4 +72,5 @@ CTO팀 인프라보안 파트 일원으로 활동하게 되면 다음과 같은 
 * CTO팀 인프라보안 파트
   * [DevSecOps](./engineer.md#DevSecOps)
   * [Security Engineer](./engineer.md#Security-Engineer)
+  * [정보보호 담당자](./security_compliance_manager.md)
   
