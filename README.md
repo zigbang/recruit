@@ -13,11 +13,13 @@
 |             |                                          | [Web 개발 리드](./dev-fe/web.md) / [Web 개발자](./dev-fe/web.md) |
 |             |                                          | [App 개발 리드](./dev-fe/app.md) / [App 개발자](./dev-fe/app.md) |
 |             | [부동산 데이터 파트](./dev-bl/README.md) | [백엔드 개발자](./dev-bl/backend.md)                         |
-| 직방 CTO팀  | SQA 파트                                 | 백엔드 위주의 풀스택 개발자                                  |
-|             | [인프라보안 파트](./cto-isms/README.md)  | [Security Engineer](./cto-isms/engineer.md)                  |
-|             |                                          | [DevSecOps](./cto-isms/engineer.md)                          |
-|             | ZUIX 파트                                | React 위주의 풀스택 개발자                                   |
-|             |                                          | [QA 엔지니어](./cto-zuix/qa-engineer.md)                                                  |
+| 직방 CTO팀  | SQA 파트                                 | 풀스택 개발자 (백엔드 기술 위주)                             |
+|             | [인프라보안 파트](./cto-isms/README.md)  | [정보보호 담당자](./cto-isms/security.md)                    |
+|             |                                          | [Security Engineer](./cto-isms/engineer.md)                  |
+|             |                                          | [DevSecOps](./cto-isms/engineer.md) (인프라 관리)            |
+|             | ZUIX 파트                                | 풀스택 개발자 (React 기술 위주)                              |
+|             |                                          | 시니어 QA 엔지니어                                           |
+|             |                                          | [QA 엔지니어](./cto-zuix/qa-engineer.md)                     |
 
 </p>
 </details>
