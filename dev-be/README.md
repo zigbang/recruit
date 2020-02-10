@@ -40,20 +40,23 @@
 
 ### 자격요건
 
-* Familiar with AWS technologies
-* Node.js의 일반적인 이해도 및 활용 경력
+* Familiar with AWS technologies(Cloud server)
+* Node.js의 일반적인 이해도 및 활용 경력 또는 javascript framework 을 통한 개발 경험(ex. backbone, angular, react)
 * Typescript / OOP에 대한 기본적인 이해도
+* framework 를 통한 백앤드 개발 경험(ex. Spring, Django, Express)
+* RDB 사용 경험(ex. ORM )
 * async/await에 대한 이해도 (No callbacks unless necessary!)
 * *nix 기반 운영체제에 대한 기본적인 이해도
 * 개발 자료에 대한 영어 독해 능력
 
 ### 우대사항
-
 * DevOps에 대한 이해도
 * 영어 작문 능력
+* opensource commiter
 * Experience with GraphQL or NestJS
 * Experience with Microsoft Azure
 * Experience with Kubernetes
+* Experience with Aws ECS, EKS
 
 ### 협업 도구
 

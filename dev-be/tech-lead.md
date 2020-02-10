@@ -26,6 +26,7 @@ Node.js / Typescript을 바탕으로 [프론트엔드](../Frontend.md)와 [백�
 * Node.js / [Express](https://expressjs.com/)-based 개발 경력 or 유사 서버 개발 경력 (3년 이상)
 * 다양한 데이터 모델에 대한 이해도 (Relational, Graph, Time-series 등)
 * `*nix` 근간 시스템에 대한 이해도
+* 각종 기술적/서비스 Issue 에 대한 troubleshooting 역량
 
 ### 우대사항
 
