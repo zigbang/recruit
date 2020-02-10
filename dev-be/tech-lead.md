@@ -30,6 +30,7 @@ Node.js / Typescript을 바탕으로 [프론트엔드](../Frontend.md)와 [백�
 
 ### 우대사항
 
+* opensource committer/contributor
 * Experience with GraphQL or NestJS
 * Experience with Microsoft Azure
 * DevOps / CI/CD에 익숙한 분

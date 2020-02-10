@@ -52,7 +52,7 @@
 ### 우대사항
 * DevOps에 대한 이해도
 * 영어 작문 능력
-* opensource commiter
+* opensource committer/contributor
 * Experience with GraphQL or NestJS
 * Experience with Microsoft Azure
 * Experience with Kubernetes

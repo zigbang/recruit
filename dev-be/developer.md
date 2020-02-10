@@ -22,6 +22,7 @@
 
 ### 우대사항
 
+* opensource committer/contributor
 * Familiar with AWS technologies
 * Familiar with Internet network interfaces
 * Experience with GraphQL or NestJS

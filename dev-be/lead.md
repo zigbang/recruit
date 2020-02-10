@@ -27,6 +27,7 @@
 
 ### 우대사항
 
+* opensource committer/contributor
 * Experience with GraphQL or NestJS
 * Experience with Microsoft Azure
 * Experience with Kubernetes
