@@ -25,7 +25,7 @@
 </details>
 
 ### 지원방법
-- 직방 채용홈페이자 (zigbang.recruiter.co.kr)로 바로 지원
+- [직방 채용홈페이지](zigbang.recruiter.co.kr)로 바로 지원
 - 혹은 경력 기술이 포함되어 있는 이력서 1부를 이메일(recruit@zigbang.com)으로 보내주세요!
 
 ### 채용절차
