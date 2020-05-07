@@ -19,7 +19,7 @@
 |             |                                          | [DevSecOps](./cto-isms/engineer.md) (인프라 관리)            |
 |             | ZUIX 파트                                | 풀스택 개발자 (React 기술 위주)                              |
 |             |                                          | 시니어 QA 엔지니어                                           |
-|             |                                          | [QA 엔지니어](./cto-zuix/qa-engineer.md)                     |
+|             |                                          | QA 엔지니어                     |
 
 </p>
 </details>
