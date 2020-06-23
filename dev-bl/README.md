@@ -41,7 +41,7 @@
 * AWS Batch / Cloudwatch / SNS / SQS / ++
 * AWS ECS / Lambda / APIGateway / CloudFront 
 * AWS CodePipeline / Codebuild / CloudFormation 
-* AWS S3 / Mysql / Aurora / Serverless Aurora 
+* AWS S3 / Mysql / Aurora / Serverless Aurora / Postgresql
 
 ### Data Engineer
 
