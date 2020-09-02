@@ -68,7 +68,7 @@
 * Serverless Cloud (mostly AWS, partially Azure)
   * AWS API Gateway / AWS Lambda / CloudFront
   * ECS / Fargate / Docker
-* Aurora (MySQL)
+* Aurora (MySQL), Document Db(Mongo), Elasticsearch Service 
 * Typescript (No Javascript)
 * GitHub
 * Azure DevOps (CI/CD)
