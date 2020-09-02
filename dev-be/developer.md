@@ -14,7 +14,7 @@
 
 ### 자격요건
 
-* IT/기술개발 총 경력 (3년 이상)
+* IT/기술개발 총 경력 (5년 이상)
 * 백엔드 프로젝트 개발 경력 (3년 이상)
 * `Node.js` / ([Express](https://expressjs.com/) or [Nest](https://nestjs.com/))-based  개발 경력 혹은 유사 서버 개발 경력 (1년 이상)
 * MySQL에 대한 이해도
