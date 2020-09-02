@@ -54,7 +54,6 @@
 * 영어 작문 능력
 * opensource committer/contributor
 * Experience with GraphQL or NestJS
-* Experience with Microsoft Azure
 * Experience with Kubernetes
 * Experience with Aws ECS, EKS
 
