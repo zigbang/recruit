@@ -15,7 +15,7 @@
 
 비-서버형 단위/배치성 모듈 (task), Daemon형 모듈 (service)이나 API Gateway / AWS Lambda 형태로 제공할 수 없는 서비스들은 ECS (Docker container), Fargate, CloudWatch, AWS Batch를 근간으로 작성하여 운영하고 있습니다. 이를 통해 언급된 백엔드 모듈들도 대부분 serverless 환경으로 운영이 될 수 있도록 합니다.
 
-단, 일부 legacy는 `ASP.NET`으로 구성이 되어 있으며 프론트엔드 파트와 함께 React 근간으로 마이그레이션을 진행 중에 있습니다.
+단, 일부 legacy는 `ASP.NET`으로 구성이 되어 있으며 프론트엔드팀와 함께 React 근간으로 마이그레이션을 진행 중에 있습니다.
 
 백엔드에서 책임지고 관리하는 서비스들은 다음과 같습니다.
 
@@ -77,7 +77,7 @@
 
 > [입사지원을 하러 가기, 클릭](https://zigbang.recruiter.co.kr/app/applicant/registResume)!!
 
-* 개발팀 백엔드 파트
+* 개발팀 백엔드팀
   * [파트 리드](./lead.md)
   * [테크니컬 리드](./tech-lead.md)
   * [개발자](./developer.md)

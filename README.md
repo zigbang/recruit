@@ -5,21 +5,20 @@
 <details open><summary>현재 모집 중인 공고 (클릭!)</summary>
 <p>
 
-| 팀          | 파트 소개                                | 모집 공고                                                    |
-| ----------- | ---------------------------------------- | ------------------------------------------------------------ |
-| 직방 개발팀 | [백엔드 파트](./dev-be/README.md)        | [파트리드](./dev-be/lead.md) / [테크니컬 리드](./dev-be/tech-lead.md) |
-|             |                                          | [백엔드 개발자](./dev-be/developer.md)                       |
-|             | [프론트엔드 파트](./dev-fe/README.md)    | [파트리드](./dev-fe/lead.md) / [테크니컬 리드](./dev-fe/tech-lead.md) |
-|             |                                          | [Web 개발 리드](./dev-fe/web.md) / [Web 개발자](./dev-fe/web.md) |
-|             |                                          | [App 개발 리드](./dev-fe/app.md) / [App 개발자](./dev-fe/app.md) |
-|             | [부동산 데이터 파트](./dev-bl/README.md) | [백엔드 개발자](./dev-bl/backend.md)                         |
-| 직방 CTO팀  | SQA 파트                                 | 풀스택 개발자 (백엔드 기술 위주)                             |
-|             | [인프라보안 파트](./cto-isms/README.md)  | 정보보호 담당자                    |
-|             |                                          | [Security Engineer](./cto-isms/engineer.md)                  |
-|             |                                          | [DevSecOps](./cto-isms/engineer.md) (인프라 관리)            |
-|             | ZUIX 파트                                | 풀스택 개발자 (React 기술 위주)                              |
-|             |                                          | 시니어 QA 엔지니어                                           |
-|             |                                          | QA 엔지니어                     |
+| 팀            | 파트 소개                               | 모집 공고                                                             |
+| ------------- | --------------------------------------- | --------------------------------------------------------------------- |
+| 직방 개발그룹 | [백엔드 팀](./dev-be/README.md)         | [파트리드](./dev-be/lead.md) / [테크니컬 리드](./dev-be/tech-lead.md) |
+|               |                                         | [백엔드 개발자](./dev-be/developer.md)                                |
+|               | [프론트엔드 팀](./dev-fe/README.md)     | [파트리드](./dev-fe/lead.md) / [테크니컬 리드](./dev-fe/tech-lead.md) |
+|               |                                         | [Web 개발 리드](./dev-fe/web.md) / [Web 개발자](./dev-fe/web.md)      |
+|               |                                         | [App 개발 리드](./dev-fe/app.md) / [App 개발자](./dev-fe/app.md)      |
+| 직방 CTO팀    | SQA 파트                                | 풀스택 개발자 (백엔드 기술 위주)                                      |
+|               | [인프라보안 파트](./cto-isms/README.md) | 정보보호 담당자                                                       |
+|               |                                         | [Security Engineer](./cto-isms/engineer.md)                           |
+|               |                                         | [DevSecOps](./cto-isms/engineer.md) (인프라 관리)                     |
+|               | ZUIX 파트                               | 풀스택 개발자 (React 기술 위주)                                       |
+|               |                                         | 시니어 QA 엔지니어                                                    |
+|               |                                         | QA 엔지니어                                                           |
 
 </p>
 </details>

@@ -57,7 +57,7 @@
 
 > [입사지원을 하러 가기, 클릭](https://zigbang.recruiter.co.kr/app/applicant/registResume)!!
 
-* 개발팀 프론트엔드 파트
+* 개발팀 프론트엔드 팀
   * [파트 리드](./lead.md)
   * [테크니컬 리드](./tech-lead.md)
   * [Web 개발 리드](./web.md#프론트엔드-web-개발-리드)
