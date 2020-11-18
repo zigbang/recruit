@@ -19,7 +19,7 @@
 |            | [인프라보안 파트](./cto-isms/README.md) | 정보보호 담당자                                   |
 |            |                                         | [Security Engineer](./cto-isms/engineer.md)       |
 |            |                                         | [DevSecOps](./cto-isms/engineer.md) (인프라 관리) |
-|            | ZUIX 파트                               | 풀스택 개발자 (React 기술 위주)                   |
+|            | ZUIX 파트                               | [UI&UX 개발자](./cto-zuix/ui-developer.md)                   |
 |            |                                         | 시니어 QA 엔지니어                                |
 |            |                                         | QA 엔지니어                                       |
 
