@@ -20,8 +20,7 @@
 |            |                                         | [Security Engineer](./cto-isms/engineer.md)       |
 |            |                                         | [DevSecOps](./cto-isms/engineer.md) (인프라 관리) |
 |            | ZUIX 파트                               | [UI&UX 개발자](./cto-zuix/ui-developer.md)                   |
-|            |                                         | 시니어 QA 엔지니어                                |
-|            |                                         | QA 엔지니어                                       |
+|            |                                         | [앱/웹 테스트 자동화 시스템 개발자](./cto-zuix/test-automation.md)               |
 
 </p>
 </details>
