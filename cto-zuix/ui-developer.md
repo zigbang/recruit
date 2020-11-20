@@ -1,12 +1,10 @@
 # ZUIX파트 UI&UX 개발자
 
-> [입사지원을 하러 가기, 클릭](https://zigbang.recruiter.co.kr/app/applicant/registResume)!!
-
 **ZUIX**(Zigbang User Interface eXperience)는 직방에서 만들고 운영하는 서비스들의 UI 컴포넌트들을 제작 및 운영, 관리하고 있는 프로젝트의 명칭입니다. 대부분의 컴포넌트들은 앱용 `React Native`와 웹용 `React Native for Web`에 대한 호환성을 맞추어 **One Code, Multi Use** 가 가능하도록 구현하고 있습니다.
 
-현재 ZUIX 파트원들은 시작 포지션은 달랐지만 최고의 서비스를 만드는 개발자를 목표로 하고 있습니다. 그렇기에 React 외에도 필요한 여러 기술들을 찾아가며 주어진 문제를 해결해 나가려는 끈질긴 의지를 갖고 하나하나씩 해결해 나가고 있습니다.
+현재 ZUIX 파트원들은 시작 포지션은 달랐지만 최고의 서비스를 만드는 개발자를 목표로 하고 있습니다. 그렇기에 React 외에도 여러 필요한 기술들을 찾아가며 주어진 문제를 해결해 나가려는 끈질긴 의지를 갖고 하나하나씩 해결해 나가고 있습니다.
 
-ZUIX 파트 일원으로 활동하게 되면 다음과 같은 이점이 있습니다.
+ZUIX 파트의 UI&UX 개발자로 합류하게 되면 다음과 같은 이점이 있습니다.
 
 * React 와 React Native 전문 개발자들과 같이 일할 수 있습니다.
 * 운영하는 대부분의 서비스에서 ZUIX로만 UI단을 개발하므로 코어 디자인 시스템을 개발할 수 있습니다.
@@ -24,7 +22,7 @@ ZUIX 파트 일원으로 활동하게 되면 다음과 같은 이점이 있습�
 
 ### 자격요건
 
-> [직방 개발자 공통 자격요건 참고](https://github.com/zigbang/recruit#%EC%9E%90%EA%B2%A9%EC%9A%94%EA%B1%B4)
+> [직방 개발자 공통 자격요건 참고](https://github.com/zigbang/recruit#%EC%9E%90%EA%B2%A9%EC%9A%94%EA%B1%B4)
 
 * 2년 이상의 React Native 나 React.js 개발 경력이 있거나 그에 준하는 실력을 갖추신 분
 * UI & UX 에 대한 기본 지식과 경험이 있으신 분
@@ -33,7 +31,7 @@ ZUIX 파트 일원으로 활동하게 되면 다음과 같은 이점이 있습�
 
 ### 우대사항
 
-> [직방 개발자 공통 우대사항 참고](https://github.com/zigbang/recruit#%EC%9E%90%EA%B2%A9%EC%9A%94%EA%B1%B4)
+> [직방 개발자 공통 우대사항 참고](https://github.com/zigbang/recruit#%EC%9A%B0%EB%8C%80%EC%82%AC%ED%95%AD)
 
 * 디자인 시스템을 접목하여 서비스를 운영한 경험
 * 모바일/테블릿/웹사이트 등 뷰포트에 따른 반응형 디자인 개발 경험
