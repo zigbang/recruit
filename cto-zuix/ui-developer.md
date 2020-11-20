@@ -22,7 +22,7 @@ ZUIX 파트의 UI&UX 개발자로 합류하게 되면 다음과 같은 이점이
 
 ### 자격요건
 
-> [직방 개발자 공통 자격요건 참고](https://github.com/zigbang/recruit#%EC%9E%90%EA%B2%A9%EC%9A%94%EA%B1%B4)
+> [직방 개발자 공통 자격요건 참고](https://github.com/zigbang/recruit#%EC%9E%90%EA%B2%A9%EC%9A%94%EA%B1%B4)
 
 * 2년 이상의 React Native 나 React.js 개발 경력이 있거나 그에 준하는 실력을 갖추신 분
 * UI & UX 에 대한 기본 지식과 경험이 있으신 분
@@ -31,7 +31,7 @@ ZUIX 파트의 UI&UX 개발자로 합류하게 되면 다음과 같은 이점이
 
 ### 우대사항
 
-> [직방 개발자 공통 우대사항 참고](https://github.com/zigbang/recruit#%EC%9A%B0%EB%8C%80%EC%82%AC%ED%95%AD)
+> [직방 개발자 공통 우대사항 참고](https://github.com/zigbang/recruit#%EC%9A%B0%EB%8C%80%EC%82%AC%ED%95%AD)
 
 * 디자인 시스템을 접목하여 서비스를 운영한 경험
 * 모바일/테블릿/웹사이트 등 뷰포트에 따른 반응형 디자인 개발 경험

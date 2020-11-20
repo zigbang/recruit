@@ -19,7 +19,7 @@ ZUIX 파트의 앱/웹 테스트 자동화 시스템 개발자로 합류하게 �
 
 ### 자격요건
 
-> [직방 개발자 공통 자격요건 참고](https://github.com/zigbang/recruit#%EC%9E%90%EA%B2%A9%EC%9A%94%EA%B1%B4)
+> [직방 개발자 공통 자격요건 참고](https://github.com/zigbang/recruit#%EC%9E%90%EA%B2%A9%EC%9A%94%EA%B1%B4)
 
 * appium 혹은 다른 tool을 활용한 e2e 테스트를 구현한 경험이 있으신 분
 * Android/iOS 플랫폼 중 하나라도 개발 경험이 있으신 분
@@ -28,7 +28,7 @@ ZUIX 파트의 앱/웹 테스트 자동화 시스템 개발자로 합류하게 �
 
 ### 우대사항
 
-> [직방 개발자 공통 우대사항 참고](https://github.com/zigbang/recruit#%EC%9A%B0%EB%8C%80%EC%82%AC%ED%95%AD)
+> [직방 개발자 공통 우대사항 참고](https://github.com/zigbang/recruit#%EC%9A%B0%EB%8C%80%EC%82%AC%ED%95%AD)
 
 * Device Farm 혹은 Saucelab을 이용한 경험이 있으신 분
 * DevOps / CI/CD 를 운영한 경험이 있으신 분
