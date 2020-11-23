@@ -1,6 +1,6 @@
 # 프론트엔드 Web 개발 리드
 
-> [입사지원을 하러 가기, 클릭](https://zigbang.recruiter.co.kr/app/applicant/registResume)!!
+> [입사지원을 하러 가기, 클릭](https://forms.gle/eAsfgs6fcSDWuY4R6)!!
 
 직방의 기술 스택을 이해하고 이를 바탕으로 직방에서 운영하는 웹사이트 구축 및 운영을 담당하는 매니징 포지션을 구합니다. 해당 포지션은 사내 비즈니스의 이해도가 필수적으로 필요하며 기술적인 부분에 대한 이해도를 근간으로 프로젝트의 완수를 책임집니다.
 
@@ -30,7 +30,7 @@
 
 # 프론트엔드 Web 개발자
 
-> [입사지원을 하러 가기, 클릭](https://zigbang.recruiter.co.kr/app/applicant/registResume)!!
+> [입사지원을 하러 가기, 클릭](https://forms.gle/eAsfgs6fcSDWuY4R6)!!
 
 직방의 기술 스택을 이해하고 이를 바탕으로 직방에서 운영하는 웹사이트 구축 및 운영을 담당하는 웹 개발자 포지션을 구합니다.
 

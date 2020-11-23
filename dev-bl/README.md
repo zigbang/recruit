@@ -70,7 +70,7 @@
 
 # 모집 공고
 
-> [입사지원을 하러 가기, 클릭](https://zigbang.recruiter.co.kr/app/applicant/registResume)!!
+> [입사지원을 하러 가기, 클릭](https://forms.gle/5xc97FaGRdSH2mj97)!!
 
 * 개발팀 부동산 데이터 파트
   * [백엔드 엔지니어](./backend.md)
