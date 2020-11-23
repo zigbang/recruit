@@ -25,17 +25,15 @@
 </p>
 </details>
 
-### 지원방법
-
-- [직방 채용 홈페이지](https://zigbang.recruiter.co.kr/)로 바로 지원
-- 혹은 경력 기술이 포함되어 있는 이력서 1부를 이메일(recruit@zigbang.com)으로 보내주세요!
-
 ### 채용절차
 
 - 서류 심사 > 코딩 테스트 > 실무 면접 > 리드 면접 > 최종 면접
 - 모든 개발직군 직무에 코딩테스트는 필수사항입니다.
 - 실무 및 리드 면접은 하루에 진행될 수 있습니다.
-- [입사지원을 하러 가기, 클릭](https://zigbang.recruiter.co.kr/app/applicant/registResume)!!
+- [백엔드팀 입사지원 하러 가기, 클릭](https://forms.gle/ojHDzTfrVeFiQXcKA)!!
+- [프론트엔드팀 입사지원 하러 가기, 클릭](https://forms.gle/eAsfgs6fcSDWuY4R6)!!
+- [CTO팀 입사지원 하러 가기, 클릭](https://forms.gle/nTCq9oXdtQ9k5iqq8)!!
+
 
 # 소개
 
