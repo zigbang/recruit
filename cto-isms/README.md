@@ -1,6 +1,6 @@
 # 인프라보안 파트
 
-> [입사지원을 하러 가기, 클릭](https://zigbang.recruiter.co.kr/app/applicant/registResume)!!
+> [입사지원을 하러 가기, 클릭](https://forms.gle/nTCq9oXdtQ9k5iqq8)!!
 
 직방은 AWS 클라우드 서비스의 도입으로 자사 서비스의 개발 속도를 크게 향상하고 시장 대응 능력을 빠르게 대처할 수 있었습니다. 특히 DevOps와 CI/CD를 통해 반복적이고 루틴한 업무를 효율적으로 처리 함으로써 개발자는 더욱 서비스 로직에 집중을 할 수 있었습니다.
 
@@ -67,7 +67,7 @@ CTO팀 인프라보안 파트 일원으로 활동하게 되면 다음과 같은 
 
 # 모집 공고
 
-> [입사지원을 하러 가기, 클릭](https://zigbang.recruiter.co.kr/app/applicant/registResume)!!
+> [입사지원을 하러 가기, 클릭](https://forms.gle/nTCq9oXdtQ9k5iqq8)!!
 
 * CTO팀 인프라보안 파트
   * [정보보호 담당자](./security.md)
