@@ -28,5 +28,4 @@ CTO팀의 DevSecOps 개발자는 직방 사내 인프라/보안 입장에서 필
 
 * AWS Elasticsearch Service, Kibana, CloudTrail, GuardDuty 등 구축 및 활용 경험이 있으신 분
 * 모의해킹대회 입상자
-* 보안 자격증 (CISSP, CISA, 정보보안 기사 등) 소유자
 * AWS Inspector, NACL, VPC Flow Logs 분석 가능하신 분
