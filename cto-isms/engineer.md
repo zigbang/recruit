@@ -1,27 +1,3 @@
-# DevSecOps
-
-> [입사지원을 하러 가기, 클릭](https://forms.gle/nTCq9oXdtQ9k5iqq8)!!
-
-### 주요 업무
-
-* 보안 및 인프라 업무의 자동화 개발
-* ISMS / PIMS / ISMS-P 심사 대응을 위한 자동화 개발 업무 진행
-* AWS / Azure / Meraki 클라우드 서비스 기반의 자동화 개발 업무 진행
-
-### 자격요건
-
-* 반복된 보안 업무를 DevOps화 시킨 경험이 있으신 분
-* AWS 클라우드 인프라의 이해도가 높으신 분
-* CI/CD 프로세스 및 관련 툴 구축 및 사용을 경험하시 분
-* ISMS / PIMS / ISMS-P 등 인증 심사 대응을 위한 기술적 지원 업무 경험하시 분
-
-### 우대사항
-
-* AWS Elasticsearch Service, Kibana, CloudTrail, GuardDuty 등 구축 및 활용 경험이 있으신 분
-* 모의해킹대회 입상자
-* 보안 자격증 (CISSP, CISA, 정보보안 기사 등) 소유자
-* AWS Inspector, NACL, VPC Flow Logs 분석 가능하신 분
-
 # Security Engineer
 
 > [입사지원을 하러 가기, 클릭](https://forms.gle/nTCq9oXdtQ9k5iqq8)!!
