@@ -6,7 +6,7 @@
 
 백엔드 RESTful API service들은 다음과 같은 특징을 가지고 있습니다.
 
-* AWS 클라우드 기반의 API Gateway / AWS Lambda 기반으로 제공
+* AWS 클라우드 기반의 AWS Lambda / Ecs Fragate 기반으로 제공 
 * 개발자의 PC에서도 로컬 개발이 가능한 형태
 * 이후 타 클라우드나 on-premise 기반에서도 구동될 수 있도록 Express (and/or Koa) 기반으로 구성
 * [Serverless ](https://serverless.com/)를 이용하여 패키징 및 배포 진행
