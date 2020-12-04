@@ -19,7 +19,7 @@
 
 백엔드에서 책임지고 관리하는 서비스들은 다음과 같습니다.
 
-* 직방 API 서비스 (`api{*|l}`, `apis` v1, `apis` v2)
+* 직방 API 서비스 (`api{*|l}`, `apis` v1, `apis` v2) - 아파트, 원룸, 오피스텔, 빌라, 우리집 등
 * 직방 계정 연동 서비스 (account)
 * 직방 푸시 발송 서비스 (messaging)
 * 직방 CEO 웹 (중개사들이 이용하는 웹사이트, mostly `ASP.NET`)
@@ -42,7 +42,7 @@
 
 * Familiar with AWS technologies(Cloud server)
 * Node.js의 일반적인 이해도 및 활용 경력 또는 javascript framework 을 통한 개발 경험(ex. backbone, angular, react)
-* Typescript / OOP에 대한 기본적인 이해도
+* Typescript 또는 OOP에 대한 기본적인 이해도
 * framework 를 통한 백앤드 개발 경험(ex. Spring, Django, Express)
 * RDB 사용 경험(ex. ORM )
 * async/await에 대한 이해도 (No callbacks unless necessary!)
@@ -59,16 +59,16 @@
 
 ### 협업 도구
 
-* 서비스 운영 내에서는 JIRA (and/or Asana), Confluence, Slack
+* 서비스 운영 내에서는 JIRA (and/or Asana), Slack
 * 일부 유관 부서와의 협업 시 Email, Telegram 사용 필요
 
 ### 기술스택
 
 * Node.js / Express / Serverless / Routing Controllers / NestJS (partially)
-* Serverless Cloud (mostly AWS, partially Azure)
+* Serverless Cloud (mostly AWS)
   * AWS API Gateway / AWS Lambda / CloudFront
   * ECS / Fargate / Docker
-* Aurora (MySQL), Document Db(Mongo), Elasticsearch Service 
+* Aurora (MySQL), Document Db(Mongo), Elasticsearch Service, ElasticCache Service
 * Typescript (No Javascript)
 * GitHub
 * Azure DevOps (CI/CD)
