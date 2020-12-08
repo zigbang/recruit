@@ -19,8 +19,8 @@
 | ---------- | ------------------------------------------------- |
 | CTO팀<br>(신기술 개발팀) | [IoT 개발자](./cto-iot/iot-developer.md) |
 |            | [Dev(Sec)Ops](./cto-isms/devsecops.md) |
-|            | [UI 개발자](./cto-zuix/ui-developer.md)                   |
-|            | [앱/웹 테스트 자동화 시스템 개발자](./cto-zuix/test-automation.md)               |
+|            | [UI&UX 개발자](./cto-zuix/ui-developer.md)                   |
+|            | [테스트 시스템 개발자](./cto-zuix/test-automation.md)               |
 
 ## 채용절차
 
