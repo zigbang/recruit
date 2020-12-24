@@ -15,12 +15,12 @@
 
 ### CTO팀
 
-| 팀 소개         | 모집 공고                                         |
+| 팀 소개         | 모집 공고                                        |
 | ---------- | ------------------------------------------------- |
-| CTO팀<br>(신기술 개발팀) | [IoT 개발자](./cto-iot/iot-developer.md) |
+| CTO팀<br>(신기술 개발팀) | [IoT 개발자](./cto-iot/iot-developer.md)  |
 |            | [Dev(Sec)Ops](./cto-isms/devsecops.md) |
-|            | [UI&UX 개발자](./cto-zuix/ui-developer.md)                   |
-|            | [테스트 시스템 개발자](./cto-zuix/test-automation.md)               |
+|            | [프론트엔드 개발자](./cto-zuix/frontend-developer.md)        |
+|            | [백엔드 개발자](./cto-zuix/backend-developer.md)         |
 
 ## 채용절차
 
