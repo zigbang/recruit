@@ -1,10 +1,10 @@
-# ZUIX파트 UI&UX 개발자
+# ZUIX파트 프론트엔드 개발자
 
 > [입사지원을 하러 가기, 클릭](https://forms.gle/nTCq9oXdtQ9k5iqq8)!!
 
-**ZUIX**(Zigbang User Interface eXperience)는 직방에서 만들고 운영하는 서비스들의 UI 컴포넌트들을 제작 및 운영, 관리하고 있는 프로젝트의 명칭입니다. 대부분의 컴포넌트들은 앱용 `React Native`와 웹용 `React Native for Web`에 대한 호환성을 맞추어 **One Code, Multi Use** 가 가능하도록 구현하고 있습니다.
+**ZUIX**(Zigbang User Interface eXperience)는 직방에서 만들고 운영하는 서비스들의 UI 컴포넌트들을 제작 및 운영, 관리하고 있는 프로젝트의 명칭입니다. ZUIX 파트의 프론트엔드 개발자는 이 컴포넌트들을 제작하고 운영하는 업무를 진행하고 있습니다. 제작한 대부분의 컴포넌트들은 앱용 `React Native`와 웹용 `React Native for Web`에 대한 호환성을 맞추어 **One Code, Multi Use** 가 가능하도록 구현하고 있습니다.
 
-ZUIX 파트의 UI&UX 개발자로 합류하게 되면 다음과 같은 이점이 있습니다.
+ZUIX 파트의 프론트엔드 개발자로 합류하게 되면 다음과 같은 이점이 있습니다.
 
 * React 와 React Native 전문 개발자들과 같이 일할 수 있습니다.
 * 운영하는 대부분의 서비스에서 ZUIX로만 UI단을 개발하므로 코어 디자인 시스템을 개발할 수 있습니다.
