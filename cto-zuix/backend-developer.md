@@ -1,8 +1,8 @@
-# ZUIX파트 백엔드 개발자
+# CTO팀 ZUIX파트 백엔드 개발자
 
 > [입사지원을 하러 가기, 클릭](https://forms.gle/nTCq9oXdtQ9k5iqq8)!!
 
-**ZUIX**(Zigbang User Interface eXperience)는 직방에서 만들고 운영하는 서비스들의 UI 컴포넌트들을 제작 및 운영, 관리하고 있는 프로젝트의 명칭입니다. ZUIX 파트의 백엔드 개발자는 컴포넌트들을 이용하여 자동화된 테스트 검증 시스템을 만들고 운영하는 업무를 진행하고 있습니다. 저희 팀에서 관리하는 시스템으로는 앱의 스크린샷을 찍고 OpenCV로 분석하여 디자인적 변경점을 찾아내는 `디자인 검수 인프라`와 **appium**을 기반으로 만든 서버 프로그램인 Github 오픈소스 [HoneyFarm](https://github.com/zigbang/honeyfarm)이 있습니다.
+CTO팀의 **ZUIX**(Zigbang User Interface eXperience)파트는 직방에서 운영하는 대부분의 서비스들에 필요한 UI 컴포넌트를 제작하고 운영 및 관리를 담당하는 파트입니다. ZUIX 파트의 백엔드 개발자는 컴포넌트들을 이용하여 자동화된 테스팅 시스템을 만들고 운영하는 업무를 진행하고 있습니다. 저희 팀에서 관리하는 시스템으로는 앱의 스크린샷을 찍고 OpenCV로 분석하여 디자인적 변경점을 찾아내는 `디자인 검수 인프라`와 **appium**을 기반으로 만든 서버 프로그램인 Github 오픈소스 [HoneyFarm](https://github.com/zigbang/honeyfarm)이 있습니다.
 
 ZUIX 파트의 백엔드 개발자로 합류하게 되면 다음과 같은 이점이 있습니다.
 

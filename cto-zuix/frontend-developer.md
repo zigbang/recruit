@@ -1,8 +1,8 @@
-# ZUIX파트 프론트엔드 개발자
+# CTO팀 ZUIX파트 프론트엔드 개발자
 
 > [입사지원을 하러 가기, 클릭](https://forms.gle/nTCq9oXdtQ9k5iqq8)!!
 
-**ZUIX**(Zigbang User Interface eXperience)는 직방에서 만들고 운영하는 서비스들의 UI 컴포넌트들을 제작 및 운영, 관리하고 있는 프로젝트의 명칭입니다. ZUIX 파트의 프론트엔드 개발자는 이 컴포넌트들을 제작하고 운영하는 업무를 진행하고 있습니다. 제작한 대부분의 컴포넌트들은 앱용 `React Native`와 웹용 `React Native for Web`에 대한 호환성을 맞추어 **One Code, Multi Use** 가 가능하도록 구현하고 있습니다.
+CTO팀의 **ZUIX**(Zigbang User Interface eXperience)파트는 직방에서 운영하는 대부분의 서비스들에 필요한 UI 컴포넌트를 제작하고 운영 및 관리를 담당하는 파트입니다. ZUIX 파트의 프론트엔드 개발자는 이 컴포넌트들을 제작하고 운영하는 업무를 진행하고 있습니다. 제작한 대부분의 컴포넌트들은 앱용 `React Native`와 웹용 `React Native for Web`에 대한 호환성을 맞추어 **One Code, Multi Use** 가 가능하도록 구현하고 있습니다.
 
 ZUIX 파트의 프론트엔드 개발자로 합류하게 되면 다음과 같은 이점이 있습니다.
 
@@ -30,7 +30,7 @@ ZUIX 파트의 프론트엔드 개발자로 합류하게 되면 다음과 같은
 * 개발 자료에 대한 영어 독해 능력
 
 #### 파트 자격요건 
-* 2년 이상의 React Native 나 React.js 개발 경력이 있거나 그에 준하는 실력을 갖추신 분
+* 3년 이상의 React Native 나 React.js 개발 경력이 있거나 그에 준하는 실력을 갖추신 분
 * UI & UX 에 대한 기본 지식과 경험이 있으신 분
 * 성능 최적화에 대해 관심을 갖고 실행할 수 있으신 분
 * 기술 트렌드에 유연한 사고방식이 있으신 분
