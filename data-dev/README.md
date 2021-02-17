@@ -16,7 +16,7 @@
 
 * 부동산에 대한 이해를 기반으로하여 부동산 데이터를 서비스에서 사용 가능 한 형태로 분석/가공
 
-# 직방 부동산 데이터 파트 직군별 기술스택/툴
+# 직방 데이터 개발팀 직군별 기술스택/툴
 
 ### 공통
 
@@ -34,6 +34,7 @@
 * AWS ECS / Lambda / APIGateway / CloudFront 
 * AWS CodePipeline / Codebuild / CloudFormation 
 * AWS S3 / Mysql / Aurora / Serverless Aurora / Postgresql
+* Elasticsearch
 
 ### Data Engineer
 
