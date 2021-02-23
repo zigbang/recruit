@@ -38,6 +38,7 @@
 - 서비스 개발 그룹 / [백엔드팀](https://forms.gle/ojHDzTfrVeFiQXcKA)
 - 서비스 개발 그룹 / [프론트엔드팀](https://forms.gle/eAsfgs6fcSDWuY4R6)
 - [CTO팀](https://forms.gle/nTCq9oXdtQ9k5iqq8)
+- 데이터그룹 / [데이터개발팀](https://forms.gle/5xc97FaGRdSH2mj97)
 
 
 # 소개
