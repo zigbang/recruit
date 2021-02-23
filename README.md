@@ -33,7 +33,7 @@
 - 서류 심사 > 코딩 테스트 > 실무 면접 > 리드 면접 > 최종 면접
 - 모든 개발직군 직무에 코딩테스트는 필수사항입니다.
 - 실무 및 리드 면접은 하루에 진행될 수 있습니다.
-
+- [채용 Home](https://bit.ly/3kqfpZv)
 ### 입사 지원
 - 서비스 개발 그룹 / [백엔드팀](https://forms.gle/ojHDzTfrVeFiQXcKA)
 - 서비스 개발 그룹 / [프론트엔드팀](https://forms.gle/eAsfgs6fcSDWuY4R6)
