@@ -65,6 +65,7 @@ API Response 구성
   -> [Vector3(1.0, 3.0, 2.0), Vector3(4.0, 6.0, 5.0)]
 - C# 의 Buffer.BlockCopy, Convert.FromBase64String 등의 함수를 이용하시면 됩니다.
 ```
+**폴리곤 데이터 1당 유니티 좌표계의 1m 를 의미합니다.**
 
 아래의 그림과 유사한 단지 구성이 되어야 합니다. 평형별 색상은 고려하지 않으셔도 됩니다.
 
@@ -91,7 +92,13 @@ Assets/Samples/texture/buildingTester_d.png
 3번(위, 아래) : 정점의 normal이 y축을 기준으로 Vector3.up || Vector3.down과 일치하는 경우
 
 
-텍스쳐 파일을 자르지 않고 한장으로 그려야합니다.
+텍스쳐 파일을 자르지 않고 한장으로 그려야합니다. 
+
+**한 층을 3m 로 가정하여 Material 의 SetTextureScale 값을 조정해주세요.**
+
+**ex) 한 동의 높이가 10m 인 경우 = 10 / 3 = 3.3333 = 3층**
+
+**Material.SetTextureScale("_BaseMap", new Vector2(1f, 3));**
 
 아래의 그림과 비슷한 모양이 나와야합니다. 실 데이터와 차이가 있으므로 정확하게 일치하지는 않습니다.
 
