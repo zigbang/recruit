@@ -79,7 +79,7 @@ API Response 구성
 Assets/Samples/texture/buildingTester_d.png
 
 텍스쳐는 아래와 같이 구성되어 있습니다.
-![Texture](https://i.imgur.com/pVwePz0.png)
+![Texture](https://i.imgur.com/srIPHBq.png)
 
 
 텍스쳐 매핑은 다음과 같습니다.
