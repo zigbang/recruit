@@ -117,5 +117,11 @@ Assets/Samples/texture/buildingTester_d.png
 
 유니티 라이프 사이클 함수 (Awake, Start, OnEnable, OnDisable, OnDestroy, Update) 이외의 직접 라이플 사이클을 구현 <b>(점수 획득한 문제에 가산점 +20점)</b>
 
+MyFramework.cs 파일에 GameObject / Material 등의 리소스 생성 및 삭제가 구현되어야 합니다.
+
+MyFramework.cs 파일에만 유니티 라이프 사이클 함수를 사용합니다.
+
+리소스 생성 및 삭제의 순서가 명확해야합니다.
+
 # 문제 해결 방법 (자유롭게 작성)
 
