@@ -128,13 +128,13 @@
 
 ### 기술스택
 
-* Node.js / Express / Serverless / Routing Controllers / NestJS
+* Node.js / Express / Serverless / Routing Controllers / NestJS / Spring / dotnet Core
 * Serverless Cloud (mostly AWS)
   * AWS API Gateway / AWS Lambda / CloudFront
   * ECS / Fargate / Docker
 * Aurora (MySQL), Document Db(Mongo), Elasticsearch Service, ElasticCache Service
 * DMS or CDC (partially)
-* Typescript (No Javascript)
+* Typescript (No Javascript) / JAVA(partially) / C#(partially)
 * GitHub
 * Azure DevOps (CI/CD)
 
