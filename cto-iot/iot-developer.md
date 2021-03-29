@@ -24,15 +24,27 @@ CTO팀의 IoT 파트는 직방 사내에서 사무실을 자동으로 제어하�
 
 ### 자격요건
 
-> [직방 개발자 공통 자격요건 참고](https://github.com/zigbang/recruit#%EC%9E%90%EA%B2%A9%EC%9A%94%EA%B1%B4)
+#### 기본 자격요건
+* Node.js의 일반적인 이해도 및 활용 경력
+* [Typescript](https://www.typescriptlang.org/) / OOP에 대한 기본적인 이해도
+* `async`/`await`에 대한 이해도 (No callbacks unless necessary!)
+* `*nix` 기반 운영체제에 대한 기본적인 이해도
+* 개발 자료에 대한 영어 독해 능력
 
+#### 파트 자격요건
 * Tasmota 혹은 유사 펌웨어 (ESPHome, ESPEasy 등)를 다룬 경험이 있거나 Home Automation 구축 유사 경험이 있으신 분
 * IoT 환경에서 주로 사용되는 프로토콜 (MQTT, HTTP API 등)에 대한 경험이 있으신 분
 * 기술 트렌드에 유연한 사고방식이 있으신 분
 
 ### 우대사항
 
-> [직방 개발자 공통 우대사항 참고](https://github.com/zigbang/recruit#%EC%9A%B0%EB%8C%80%EC%82%AC%ED%95%AD)
+#### 기본 우대사항
+* Webpack, Babel에 대한 이해도
+* DevOps에 대한 이해도
+* Cloud (AWS, Azure)에 대한 이해도
+* 기본적인 Database/SQL (sqlite 경험 포함)에 대한 이해도
+* 영어 작문 능력
 
+#### 파트 우대사항
 * NFC/BLE 연동을 겸비한 Android 혹은 iPhone 개발 경험
 * 비디오 영상 처리에 대한 이해도 (ffmpeg, codec, rtsp, OpenCV 등)

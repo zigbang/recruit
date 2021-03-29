@@ -1,8 +1,8 @@
-# 부동산 데이터파트 백엔드 개발자
+# 데이터개발팀 백엔드 개발자
 
 > [입사지원을 하러 가기, 클릭](https://forms.gle/5xc97FaGRdSH2mj97)!!
 
-> [부동산 데이터파트 소개](./README.md)
+> [데이터개발팀 소개](./README.md)
 
 ### 주요업무
 
@@ -21,10 +21,9 @@
 	
 ### 우대사항
 
-* 부동산 데이터에 관심이 많으신 분
 * Typescript
 * Docker
 * Elasticsearch
 * AWS ECS, Lambda, API Gateway 등 경험이 있으신 분
 * AWS EMR, Glue을 활용한 ETL개발을 해보신 분
-* 개인 프로젝트 진행 중인 사람
+* 부동산 데이터에 관심이 많으신 분
