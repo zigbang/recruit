@@ -44,7 +44,7 @@ ZUIX 파트의 백엔드 개발자로 합류하게 되면 다음과 같은 이�
 * 영어 작문 능력
 
 #### 파트 우대사항
-* Docker 를 활용한 업무 겅험이 있으신 분
+* Docker 를 활용한 업무 경험이 있으신 분
 * Device Farm 혹은 Saucelab을 이용한 경험이 있으신 분
 * DevOps / CI/CD 를 운영한 경험이 있으신 분
 * React Native 개발 경험이 있으신 분
