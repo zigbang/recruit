@@ -1,0 +1,5 @@
+dev-zed/assignment-ta/Library
+dev-zed/assignment-ta/.vscode
+dev-zed/assignment-ta/.DS_Store
+*.sln
+*.csproj
