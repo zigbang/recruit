@@ -8,7 +8,8 @@
 ### Danji.unity
 ![image](https://user-images.githubusercontent.com/52955606/122860977-a5137d00-d359-11eb-87b8-5cc82b3ff6f4.png)
 - 직방에서 사용하고 있는 단지를 obj 파일로 익스포트하고 이를 프리팹으로 임포트한 Scene입니다.
-- 오브젝트의 구조는 다음과 같습니다.
+- 오브젝트의 구조는 다음과 같습니다
+![image](https://user-images.githubusercontent.com/52955606/122861078-cf653a80-d359-11eb-9fef-9e59731129a7.png)
   - Danji: 아파트 단지 건물
   - Items: 아파트 단지 내에 매물에 해당하는 세대
   - BuildingFloors: 건물과 지면 사이에 존재하는 바닥면 폴리곤
