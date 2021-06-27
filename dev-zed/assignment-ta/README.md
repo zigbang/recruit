@@ -25,15 +25,18 @@
  
 ![image](https://user-images.githubusercontent.com/52955606/122861078-cf653a80-d359-11eb-9fef-9e59731129a7.png)
 ```
-  - Danji: 아파트 단지 건물
-  - Items: 아파트 단지 내에 매물에 해당하는 세대
-  - BuildingFloors: 건물과 지면 사이에 존재하는 바닥면 폴리곤
-  - AroundBuildings: 아파트 단지를 제외한 주변 지역 건물 
-  - AroundDanjis: 주변에 존재하는 다른 아파트 단지
-  - Ground: 지형 폴리곤
+ - Danji: 아파트 단지 건물
+ - Items: 아파트 단지 내에 매물에 해당하는 세대
+ - BuildingFloors: 건물과 지면 사이에 존재하는 바닥면 폴리곤
+ - AroundBuildings: 아파트 단지를 제외한 주변 지역 건물 
+ - AroundDanjis: 주변에 존재하는 다른 아파트 단지
+ - Ground: 지형 폴리곤
 ```
 ### Room.unity
 ![image](https://user-images.githubusercontent.com/52955606/122860915-83b29100-d359-11eb-9f92-8e96eabb4adf.png)
 - 직방에서 사용하고 있는 실내 평면도 모델링입니다. 해당 모델링은 자동생성으로 만들어지며, 자동 생성시에 주어진 material만 사용할 수 있습니다.
 
 - 주어진 2개의 Scene에서 오브젝트들의 용도 및 가시성을 고려하여 머테리얼 및 쉐이더를 제작하고, 적절한 라이팅을 배치하여 완성된 Scene을 만들어 제출하세요.
+
+## 과제 관련 코멘트(작업 시의 주안점, 과정, 디자인 의도 등 자유롭게 작성) 
+
