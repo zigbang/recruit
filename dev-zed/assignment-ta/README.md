@@ -5,7 +5,7 @@
 >1) fork 기능으로 개인 github 계정에 저장소 생성
 >![image](https://user-images.githubusercontent.com/52955606/123530093-b8479380-d731-11eb-9f65-a1da28a683e4.png)
 >2) 작업을 하신 후 fork하신 저장소에 commit & push
->3) 채용 담당자분께 해당 저장소의 url
+>3) 해당 저장소의 url을 첨부하여 채용 담당자분께 이메일 제출
 
 - **(중요)과제 작성시 다음 제약조건을 준수하여 주시기 바랍니다.**
 ```
