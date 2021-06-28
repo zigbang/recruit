@@ -18,7 +18,7 @@
 
 ## 과제 설명
 프로젝트내부에는 2개의 Scene이 존재합니다.
-### Danji.unity
+### 1. Danji.unity
 ![image](https://user-images.githubusercontent.com/52955606/122860977-a5137d00-d359-11eb-87b8-5cc82b3ff6f4.png)
 - 직방에서 사용하고 있는 단지를 obj 파일로 익스포트하고 이를 프리팹으로 임포트한 Scene입니다.
 - 오브젝트의 구조는 다음과 같습니다
@@ -32,11 +32,19 @@
  - AroundDanjis: 주변에 존재하는 다른 아파트 단지
  - Ground: 지형 폴리곤
 ```
-### Room.unity
-![image](https://user-images.githubusercontent.com/52955606/122860915-83b29100-d359-11eb-9f92-8e96eabb4adf.png)
-- 직방에서 사용하고 있는 실내 평면도 모델링입니다. 해당 모델링은 자동생성으로 만들어지며, 자동 생성시에 주어진 material만 사용할 수 있습니다.
+- 오브젝트들의 용도 및 가시성을 고려하여 머테리얼 및 쉐이더를 제작하고, 적절한 라이팅을 배치하여 완성된 씬을 만들어 제출하세요.
+#### 적용 예시
+![image](https://user-images.githubusercontent.com/52955606/123564606-feb1f680-d7f4-11eb-847b-ef81d660fbdd.png)
 
-- 주어진 2개의 Scene에서 오브젝트들의 용도 및 가시성을 고려하여 머테리얼 및 쉐이더를 제작하고, 적절한 라이팅을 배치하여 완성된 Scene을 만들어 제출하세요.
+### 2. Room.unity
+![image](https://user-images.githubusercontent.com/52955606/122860915-83b29100-d359-11eb-9f92-8e96eabb4adf.png)
+- 직방에서 사용하고 있는 실내 평면도 모델링입니다. 해당 모델링은 자동생성으로 만들어지며, 머테리얼도 자동으로 반영됩니다.
+- 머테리얼은 사전에 주어진 24개로 제한됩니다.
+
+![image](https://user-images.githubusercontent.com/52955606/123564979-4c7b2e80-d7f6-11eb-9c7e-eee4c9a6d7eb.png)
+
+- 주어진 24개의 머테리얼을 변경하거나 새로운 쉐이더를 적용하고, 적절한 라이팅을 배치하여 씬의 퀄리티를 높여 보세요. 
+- **머테리얼 수의 추가는 불가능하며, 기존 머테리얼의 수정 또는 교체만 가능합니다.**
 
 ## 과제 관련 코멘트
 - 여기에 과제 관련하여 코멘트 하실 사항이 있으면 작성해주세요.
