@@ -33,8 +33,12 @@
  - Ground: 지형 폴리곤
 ```
 - 오브젝트들의 용도 및 가시성을 고려하여 머테리얼 및 쉐이더를 제작하고, 적절한 라이팅을 배치하여 완성된 씬을 만들어 제출하세요.
+
 #### 적용 예시
 ![image](https://user-images.githubusercontent.com/52955606/123564606-feb1f680-d7f4-11eb-847b-ef81d660fbdd.png)
+
+- Tip: 예시 화면에서 지형에 사용된 텍스쳐 이미지 경로 - /Assets/Materials/GroundMap.tif
+
 
 ### 2. Room.unity
 ![image](https://user-images.githubusercontent.com/52955606/122860915-83b29100-d359-11eb-9f92-8e96eabb4adf.png)
